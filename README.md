@@ -9,20 +9,19 @@ My primary focus has been on developing and maintaining backend systems that pow
 
 ## Here's a glimpse of my key skills and expertise:
 
-#### ● Java:
-Proficient in Core Java with a strong foundation in object-oriented programming.
-#### ● Spring Boot:
-Skilled in crafting RESTful APIs and web applications with Spring Boot, facilitating seamless communication and data exchange between frontend and backend systems.
-#### ● Microservices:
-Skilled in designing and implementing microservices architecture for scalable and maintainable applications.
-#### ● Agile Methodologies: 
-Proficient in Agile development practices, such as Scrum or Kanban, for efficient project management.
-#### ● Database Management: 
-Experienced in working with relational databases like MySQL, I can design schemas, write complex queries, and optimize database performance.
-#### ● Version Control:
-Proficient in using Git and GitHub for version control. I can manage repositories, create branches, and merge changes effectively.
-#### ● AWS: 
-Knowledgeable in deploying and managing applications on AWS infrastructure.
+ **● Java:** Proficient in Core Java with a strong foundation in object-oriented programming.
+ 
+ **● Spring Boot:** Skilled in building RESTful APIs and web applications with Spring Boot, facilitating seamless communication and data exchange between frontend and backend systems.
+ 
+ **● Microservices:** Skilled in designing and implementing microservices architecture for scalable and maintainable applications.
+ 
+**● Agile Methodologies:** Proficient in Agile development practices, such as Scrum or Kanban, for efficient project management.
+
+**● Database Management:** Experienced in working with relational databases like MySQL, I can design schemas, write complex queries, and optimize database performance.
+
+**● Version Control:** Proficient in using Git and GitHub for version control. I can manage repositories, create branches, and merge changes effectively.
+
+**● AWS:** Knowledgeable in deploying and managing applications on AWS infrastructure.
 
 #
 
