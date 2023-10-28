@@ -6,6 +6,7 @@ I am a highly motivated and experienced backend Java developer with over one yea
 I have a strong passion for creating efficient, scalable, and robust software solutions. 
 My primary focus has been on developing and maintaining backend systems that power web applications, ensuring they run smoothly and deliver exceptional performance.
 
+#
 
 ### <div style="color: blue;">Here's a glimpse of my key skills and expertise:</div>
 
