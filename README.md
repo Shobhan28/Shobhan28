@@ -1,13 +1,13 @@
-# Hi there 👋 I'm Shobhan Mandal
+# <div style="color: blue;"> Hi there 👋 I'm Shobhan Mandal
 
-### About me
+### <div style="color: blue;"> About me
 
 I am a highly motivated and experienced backend Java developer with over one year of dedicated service in the field.
 I have a strong passion for creating efficient, scalable, and robust software solutions. 
 My primary focus has been on developing and maintaining backend systems that power web applications, ensuring they run smoothly and deliver exceptional performance.
 
 
-### Here's a glimpse of my key skills and expertise:
+### <div style="color: blue;"> Here's a glimpse of my key skills and expertise:
 
 
  **● Java:** Proficient in Core Java with a strong foundation in object-oriented programming.\
