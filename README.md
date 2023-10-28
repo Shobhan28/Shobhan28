@@ -22,6 +22,8 @@ My primary focus has been on developing and maintaining backend systems that pow
 ## My Projects
    **🖥️MyBlog project:** MyBlog is a one-stop platform that makes it easy for writers, bloggers, and content creators to express themselves. It helps you write, edit, and organize your posts, making the writing process smooth and enjoyable.
 
+  **🖥️Notes-Taking App:**  Built Restful CRUD API for a simple Note-Taking application using Spring Boot, Mysql, JPA and Hibernate. It allows users to create, read, update, and delete notes, providing a flexible and efficient way to manage personal or shared notes.
+
    #
 
 ***▶ 🔭 I’m currently working on developing microservices using the Spring Boot framework and integrating them with MySQL databases.***
