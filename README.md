@@ -19,7 +19,10 @@ My primary focus has been on developing and maintaining backend systems that pow
  **● Version Control:** Proficient in using Git and GitHub for version control. I can manage repositories, create branches, and merge changes effectively.\
  **● AWS:** Knowledgeable in deploying and managing applications on AWS infrastructure.
 
-#
+## My Projects
+   **🖥️MyBlog project:** MyBlog is a one-stop platform that makes it easy for writers, bloggers, and content creators to express themselves. It helps you write, edit, and organize your posts, making the writing process smooth and enjoyable.
+
+   #
 
 ***▶ 🔭 I’m currently working on developing microservices using the Spring Boot framework and integrating them with MySQL databases.***
 
