@@ -1,6 +1,6 @@
 # <div style="color: blue;">Hi there 👋 I'm Shobhan Mandal</div>
 
-### <div style="color: blue;">About me</div>
+### About me
 
 I am a highly motivated and experienced backend Java developer with over one year of dedicated service in the field.
 I have a strong passion for creating efficient, scalable, and robust software solutions. 
@@ -21,16 +21,16 @@ My primary focus has been on developing and maintaining backend systems that pow
 
 #
 
-##### ▶ 🔭 I’m currently working on developing microservices using the Spring Boot framework and integrating them with MySQL databases.
+***▶ 🔭 I’m currently working on developing microservices using the Spring Boot framework and integrating them with MySQL databases.***
 
-##### ▶ 🌱 I’m currently learning more about cloud-native architecture and containerization technologies like Docker and Kubernetes to enhance my microservices development skills.
+***▶ 🌱 I’m currently learning more about cloud-native architecture and containerization technologies like Docker and Kubernetes to enhance my microservices development skills.***
 
-##### ▶ 👯 I’m looking to collaborate on open-source projects related to Java-based microservices, Spring Boot, or any innovative backend development projects.
+***▶ 👯 I’m looking to collaborate on open-source projects related to Java-based microservices, Spring Boot, or any innovative backend development projects.***
 
-##### ▶ 💬 Ask me about Java backend development, microservices, Spring Boot, Hibernate, MySQL, and core Java programming.
+***▶ 💬 Ask me about Java backend development, microservices, Spring Boot, Hibernate, MySQL, and core Java programming.***
 
 
-##### ▶ 📫 How to reach me: You can connect with me on LinkedIn at [https://www.linkedin.com/in/shobhan-m28/]
+***▶ 📫 How to reach me: You can connect with me on LinkedIn at*** [https://www.linkedin.com/in/shobhan-m28/]
 
 
 
