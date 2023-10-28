@@ -7,21 +7,16 @@ I have a strong passion for creating efficient, scalable, and robust software so
 My primary focus has been on developing and maintaining backend systems that power web applications, ensuring they run smoothly and deliver exceptional performance.
 
 
-## Here's a glimpse of my key skills and expertise:
+### Here's a glimpse of my key skills and expertise:
 
- **● Java:** Proficient in Core Java with a strong foundation in object-oriented programming.
- 
- **● Spring Boot:** Skilled in building RESTful APIs and web applications with Spring Boot, facilitating seamless communication and data exchange between frontend and backend systems.
- 
- **● Microservices:** Skilled in designing and implementing microservices architecture for scalable and maintainable applications.
- 
-**● Agile Methodologies:** Proficient in Agile development practices, such as Scrum or Kanban, for efficient project management.
 
-**● Database Management:** Experienced in working with relational databases like MySQL, I can design schemas, write complex queries, and optimize database performance.
-
-**● Version Control:** Proficient in using Git and GitHub for version control. I can manage repositories, create branches, and merge changes effectively.
-
-**● AWS:** Knowledgeable in deploying and managing applications on AWS infrastructure.
+ **● Java:** Proficient in Core Java with a strong foundation in object-oriented programming.\
+ **● Spring Boot:** Skilled in building RESTful APIs and web applications with Spring Boot, facilitating seamless communication and data exchange between frontend and backend systems.\
+ **● Microservices:** Skilled in designing and implementing microservices architecture for scalable and maintainable applications.\
+ **● Agile Methodologies:** Proficient in Agile development practices, such as Scrum or Kanban, for efficient project management.\
+ **● Database Management:** Experienced in working with relational databases like MySQL, I can design schemas, write complex queries, and optimize database performance.\
+ **● Version Control:** Proficient in using Git and GitHub for version control. I can manage repositories, create branches, and merge changes effectively.\
+ **● AWS:** Knowledgeable in deploying and managing applications on AWS infrastructure.
 
 #
 
@@ -33,5 +28,8 @@ My primary focus has been on developing and maintaining backend systems that pow
 
 ##### ▶ 💬 Ask me about Java backend development, microservices, Spring Boot, Hibernate, MySQL, and core Java programming.
 
+
 ##### ▶ 📫 How to reach me: You can connect with me on LinkedIn at [https://www.linkedin.com/in/shobhan-m28/]
+
+
 
