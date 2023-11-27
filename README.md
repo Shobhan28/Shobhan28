@@ -2,8 +2,7 @@
 
 ### About me
 
-I am a experienced backend Java developer with over one year of dedicated service in the field.
-I have a strong passion for creating efficient, scalable, and robust software solutions. 
+I'm a passionate Java developer with 3.3 years of professional experience. My skill set includes expertise in technologies such as Spring Boot, microservices architecture, SQL databases, Core Java, AWS, Angular, and more.
 My primary focus has been on developing and maintaining backend systems that power web applications, ensuring they run smoothly and deliver exceptional performance.
 
 #
